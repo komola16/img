@@ -1,0 +1,11 @@
+@media only screen and (max-width: 900px) {
+  main {
+    .img {
+      width: 100%;
+      height: 500px;
+    }
+  }
+  .line {
+    width: calc(100% - 32px);
+  }
+}
